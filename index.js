@@ -43,3 +43,9 @@ console.log(s)
 for(let i = 0; i <= 10; i++){
 console.log(i)
 }
+
+const firstword = "Hello";
+const secondword = "World";
+
+console.log(firstword + secondword);
+console.log(`${firstword} ${secondword}`)
