@@ -39,3 +39,7 @@ console.log("post")
 r = s--;
 console.log(r)
 console.log(s)
+
+for(let i = 0; i <= 10; i++){
+console.log(i)
+}
